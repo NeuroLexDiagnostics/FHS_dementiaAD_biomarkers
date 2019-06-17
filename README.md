@@ -1,4 +1,4 @@
 # Framingham Dementia & Alzheimers Disease Vocal Biomarkers Analysis
 Framingham Heart Study Aging Analysis for understanding vocal biomarkers in Alzheimer's and Dementia
 
-neurolexdiagnostics.github.io/FHS_dementiaAD_biomarkers
+https://neurolexdiagnostics.github.io/FHS_dementiaAD_biomarkers/
